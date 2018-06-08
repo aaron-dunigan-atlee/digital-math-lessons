@@ -1,0 +1,23 @@
+/* Universal Styles */
+
+html {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+}
+
+table{
+    border: 1px solid black;
+    
+}
+
+td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+    
+}
+
+td:last-of-type {
+    text-align: left;
+}
+
